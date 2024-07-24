@@ -1,2 +1,2 @@
 # cursojava
-Repositório de um curso de Java básico, onde subi todos os exercícios feitos no curso.
+Repositório de onde estou subindo todos exercicios e projetos que estou realizando durante meus estudos em java desde o básico ao mas avançado de acordo com oque vou aprendendo.
