@@ -1,0 +1,12 @@
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\controller\UserController.java
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\DioSpringSecurityJwtApplication.java
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\dtos\Login.java
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\dtos\Sessao.java
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\model\User.java
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\repository\UserRepository.java
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\security\JWTCreator.java
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\security\JWTFilter.java
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\security\JWTObject.java
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\security\SecurityConfig.java
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\security\WebSecurityConfig.java
+C:\Users\filip\Desktop\dio-spring-security-jwt\src\main\java\dio\dio_spring_security_jwt\service\UserService.java

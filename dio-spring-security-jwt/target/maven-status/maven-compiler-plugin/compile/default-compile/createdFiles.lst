@@ -1,0 +1,12 @@
+dio\dio_spring_security_jwt\DioSpringSecurityJwtApplication.class
+dio\dio_spring_security_jwt\security\JWTFilter.class
+dio\dio_spring_security_jwt\repository\UserRepository.class
+dio\dio_spring_security_jwt\controller\UserController.class
+dio\dio_spring_security_jwt\model\User.class
+dio\dio_spring_security_jwt\service\UserService.class
+JWTCreator.class
+dio\dio_spring_security_jwt\dtos\Login.class
+JWTObject.class
+dio\dio_spring_security_jwt\security\WebSecurityConfig.class
+dio\dio_spring_security_jwt\dtos\Sessao.class
+dio\dio_spring_security_jwt\security\SecurityConfig.class
